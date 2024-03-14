@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: buttons
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: f13a460b58ef1864783bfcf22deeca2b, type: 3}
+    - {fileID: 2800000, guid: 64687e14d82fd3b4fa7acf32b4a60d32, type: 3}
+    - {fileID: 2800000, guid: e1e7cf8a0bdbbea4e96359f3d5b79b77, type: 3}
+    - {fileID: 2800000, guid: 3610d14906b3de34398d3fa5a250d542, type: 3}
+    - {fileID: 2800000, guid: afab3634f915ed24b9167cd6186fb858, type: 3}
+    - {fileID: 2800000, guid: 9e488f2728335b545b5c7c4cde525457, type: 3}
+    - {fileID: 2800000, guid: e211b5be785172542910961394bcf6e1, type: 3}
+    - {fileID: 2800000, guid: 27149d896737cb4429493b02bb593207, type: 3}
+    - {fileID: 2800000, guid: 3d26a7cd798223a47bd65b67e49465bf, type: 3}
+    - {fileID: 2800000, guid: f6565896e7c0b8d43b0ee534994fee11, type: 3}
+    - {fileID: 2800000, guid: 165dcabb8cc94ce46a6e17cea44c83d8, type: 3}
+    - {fileID: 2800000, guid: 8fbf97afc1b62cd4d8b7623a1c7eda5b, type: 3}
+    - {fileID: 2800000, guid: 4545847594cc3cf4f90a05a5279f0703, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 64687e14d82fd3b4fa7acf32b4a60d32, type: 3}
+  - {fileID: 21300000, guid: afab3634f915ed24b9167cd6186fb858, type: 3}
+  - {fileID: 21300000, guid: 4545847594cc3cf4f90a05a5279f0703, type: 3}
+  - {fileID: 21300000, guid: f6565896e7c0b8d43b0ee534994fee11, type: 3}
+  - {fileID: 21300000, guid: 9e488f2728335b545b5c7c4cde525457, type: 3}
+  - {fileID: 21300000, guid: 3610d14906b3de34398d3fa5a250d542, type: 3}
+  - {fileID: 21300000, guid: 27149d896737cb4429493b02bb593207, type: 3}
+  - {fileID: 21300000, guid: e1e7cf8a0bdbbea4e96359f3d5b79b77, type: 3}
+  - {fileID: 21300000, guid: f13a460b58ef1864783bfcf22deeca2b, type: 3}
+  - {fileID: 21300000, guid: 165dcabb8cc94ce46a6e17cea44c83d8, type: 3}
+  - {fileID: 21300000, guid: 3d26a7cd798223a47bd65b67e49465bf, type: 3}
+  - {fileID: 21300000, guid: e211b5be785172542910961394bcf6e1, type: 3}
+  - {fileID: 21300000, guid: 8fbf97afc1b62cd4d8b7623a1c7eda5b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Up col_Square Button
+  - Resume  col_Button
+  - Home col_Square Button
+  - Pause col_Square Button
+  - Return col_Square Button
+  - X col_Square Button
+  - Quit  col_Button
+  - Controls  col_Button
+  - Down col_Square Button
+  - Menu  col_Button
+  - Play col_Button
+  - Questionmark col_Square Button
+  - Exit  col_Button
+  m_RenderDataMap: {}
+  m_Tag: buttons
+  m_IsVariant: 0
